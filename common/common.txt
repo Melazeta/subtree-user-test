@@ -4,3 +4,4 @@ locale!
 locale2
 locale3
 tree
+mix
