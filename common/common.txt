@@ -1,3 +1,4 @@
 bel lavorino
 tantaro
 locale!
+locale2
