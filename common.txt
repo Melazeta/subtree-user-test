@@ -6,3 +6,5 @@ locale3
 tree
 mix
 common repo
+chi è il pagliaccio?
+sono io?
