@@ -11,3 +11,4 @@ sono io?
 test after merge in local
 test after local edit
 local ancora
+common con probabile conflitto
